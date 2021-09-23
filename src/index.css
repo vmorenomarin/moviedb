@@ -1,0 +1,18 @@
+body {
+  background-color: #223343 !important;
+}
+
+.card {
+  background-color: #3c546d !important;
+  color: white;
+}
+
+#card-movies:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
